@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": "b20a",
+      "name": "Técnico",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1d16",
+      "name": "Sandro Ospina Arias",
+      "budget": "2050",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 800,
+      "services": [
+        {
+          "name": "serviço novo",
+          "cost": "200",
+          "description": "tgtgt",
+          "id": "5cf93347-354b-4bfc-b55a-a1916a35683d"
+        },
+        {
+          "name": "serviço novo",
+          "cost": "200",
+          "description": "tgtgt",
+          "id": "5cf93347-354b-4bfc-b55a-a1916a35683d"
+        },
+        {
+          "name": "serviço novo",
+          "cost": "200",
+          "description": "tgtgt",
+          "id": "5cf93347-354b-4bfc-b55a-a1916a35683d"
+        },
+        {
+          "name": "serviço novo",
+          "cost": "200",
+          "description": "tgtgt",
+          "id": "5cf93347-354b-4bfc-b55a-a1916a35683d"
+        }
+      ]
+    },
+    {
+      "id": "e3c2",
+      "name": "Criar app",
+      "budget": "3800",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "94be",
+      "name": "Novo teste hoje",
+      "budget": "15000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Design"
+    },
+    {
+      "id": "3",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
